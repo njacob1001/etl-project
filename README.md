@@ -51,7 +51,8 @@ Puedes consultar el *proceso completo del ETL* en el siguiente [enlace al PDF](h
 
 Aquí se muestra el diagrama del flujo completo del proceso ETL para ilustrar la secuencia de pasos involucrados:
 
-![Flujo ETL](https://drive.google.com/uc?export=view&id=1ehGVew_vNpEeiV0-nDoXYC0J_5O-jizZ)
+![Flujo ETL](https://github.com/user-attachments/assets/63987358-3ce7-4c1c-a56a-002bb858b7f8)
+
 
 
 ### Extracción
