@@ -5,7 +5,7 @@ Integrantes:
 - Lorena Portilla
 - Yan Carlos Cuarán
 
-El proyecto descrito se encuentra hospedado en Google Colab: [Link](https://colab.research.google.com/drive/1goTgqwSVOroRqWBZ0Ux_NEqjI2ukVd-t?usp=sharing)
+Este proyecto incluye un notebook de análisis y transformación de datos
 
+Este proyecto esta disponible en Google Colab
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/njacob1001/etl-project/blob/main/notebooks/proyectoETL.ipynb)
-
