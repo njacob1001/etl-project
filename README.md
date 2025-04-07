@@ -1,10 +1,26 @@
-# Proyecto ETL - Análisis de Precios de Medicamentos en Colombia
+ Proyecto ETL - Análisis de Precios de Medicamentos en Colombia
 
 Este proyecto tiene como objetivo desarrollar una solución ETL para centralizar, transformar y estandarizar los precios de los medicamentos en Colombia para mejorar la toma de decisiones informadas en el sector de la salud y por parte de los consumidores.
 
-## Ejecucion del proyecto
+## Ejecución del proyecto
 
-Este proyecto se puede abrir en google colab en el siguiente link: [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/njacob1001/etl-project/blob/main/notebooks/proyectoETL.ipynb)
+### 🔗 Recomendado: Usar Google Colab
+
+Se recomienda ejecutar este proyecto directamente en Google Colab sin necesidad de instalar nada localmente. Esto es especialmente útil si porque no require el manejo de dependencias o configuraciones de entorno.
+
+Acceda a **Google colab** con el siguiente botón para abrir el notebook:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/njacob1001/etl-project/blob/main/notebooks/proyectoETL.ipynb)
+
+---
+
+### ⚙️ Alternativa: Ejecutar localmente
+
+Si requiere correr el proyecto localmente, ejecute el siguiente comando:
+```bash
+   git clone https://github.com/njacob1001/etl-project.git
+   cd etl-project
+```
 
 ## Requerimientos
 
