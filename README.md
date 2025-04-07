@@ -1,9 +1,9 @@
 # Proyecto ETL
 
 Integrantes:
+- Yan Carlos Cuarán
 - Nilson Jacob González Campo
 - Lorena Portilla
-- Yan Carlos Cuarán
 
 Este proyecto incluye un notebook de análisis y transformación de datos
 
