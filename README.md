@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo desarrollar una solución ETL para centralizar
 
 ### 🔗 Recomendado: Usar Google Colab
 
-Se recomienda ejecutar este proyecto directamente en Google Colab sin necesidad de instalar nada localmente. Esto es especialmente útil si porque no require el manejo de dependencias o configuraciones de entorno.
+Se recomienda ejecutar este proyecto directamente en Google Colab sin necesidad de instalar nada localmente. Esto es especialmente útil porque no require el manejo de dependencias o configuraciones de entorno.
 
 Acceda a **Google colab** con el siguiente botón para abrir el notebook:
 
